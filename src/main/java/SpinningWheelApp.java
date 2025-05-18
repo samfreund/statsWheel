@@ -6,6 +6,8 @@ import javafx.scene.canvas.*;
 import javafx.scene.control.Button;
 import javafx.scene.layout.*;
 import javafx.scene.paint.*;
+import javafx.scene.shape.Arc;
+import javafx.scene.shape.ArcType;
 import javafx.scene.text.*;
 import javafx.scene.transform.Rotate;
 import javafx.stage.Stage;
